@@ -1,3 +1,4 @@
 content of file A
 line 1
 line 33
+line 2
