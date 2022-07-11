@@ -1,2 +1,3 @@
 content of file B
 line 2
+line 3
